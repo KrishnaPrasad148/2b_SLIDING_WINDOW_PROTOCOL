@@ -45,7 +45,7 @@ while True:
 ![Screenshot 2024-04-20 134817](https://github.com/KrishnaPrasad148/2b_SLIDING_WINDOW_PROTOCOL/assets/147332763/f212f658-2ed7-440a-9296-5f5cc1d143d3)
 
 
-![Screenshot 2024-04-20 134828](https://github.com/KrishnaPrasad148/2b_SLIDING_WINDOW_PROTOCOL/assets/147332763/975c5a5d-5ea1-43d5-95e7-e2c88b0b0c90)
+![Screenshot 2024-04-20 134828](https://github.com/KrishnaPrasad148/2b_SLIDING_WINDOW_PROTOCOL/assets/147332763/21c6f597-8f4d-456c-9064-4dd8e469a9b6)
 
 
 ## RESULT
